@@ -10,7 +10,6 @@ GroupScreen is a voluntary academic research tool developed at Purdue University
 
 ## What we collect
 
-- Your first name, as entered during onboarding
 - Aggregate screen time usage (total seconds per day) — no per-app breakdown is ever transmitted off your device
 - Timestamps of key in-app events (e.g. when the group budget resets, when the shared limit is reached)
 
